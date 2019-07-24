@@ -1,0 +1,12 @@
+c:\users\rober\source\repos\VBTutorial\VBTutorial\obj\Debug\VBTutorial.vbprojAssemblyReference.cache
+c:\users\rober\source\repos\VBTutorial\VBTutorial\obj\Debug\VBTutorial.Form1.resources
+c:\users\rober\source\repos\VBTutorial\VBTutorial\obj\Debug\VBTutorial.Resources.resources
+c:\users\rober\source\repos\VBTutorial\VBTutorial\obj\Debug\VBTutorial.vbproj.GenerateResource.cache
+c:\users\rober\source\repos\VBTutorial\VBTutorial\obj\Debug\VBTutorial.vbproj.CoreCompileInputs.cache
+c:\users\rober\source\repos\VBTutorial\VBTutorial\bin\Debug\VBTutorial.exe.config
+c:\users\rober\source\repos\VBTutorial\VBTutorial\bin\Debug\VBTutorial.exe
+c:\users\rober\source\repos\VBTutorial\VBTutorial\bin\Debug\VBTutorial.pdb
+c:\users\rober\source\repos\VBTutorial\VBTutorial\bin\Debug\VBTutorial.xml
+c:\users\rober\source\repos\VBTutorial\VBTutorial\obj\Debug\VBTutorial.exe
+c:\users\rober\source\repos\VBTutorial\VBTutorial\obj\Debug\VBTutorial.xml
+c:\users\rober\source\repos\VBTutorial\VBTutorial\obj\Debug\VBTutorial.pdb

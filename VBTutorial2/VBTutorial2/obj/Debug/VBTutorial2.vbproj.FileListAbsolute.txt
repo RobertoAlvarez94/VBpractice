@@ -1,0 +1,11 @@
+c:\users\rober\source\repos\VBTutorial2\VBTutorial2\bin\Debug\VBTutorial2.exe.config
+c:\users\rober\source\repos\VBTutorial2\VBTutorial2\bin\Debug\VBTutorial2.exe
+c:\users\rober\source\repos\VBTutorial2\VBTutorial2\bin\Debug\VBTutorial2.pdb
+c:\users\rober\source\repos\VBTutorial2\VBTutorial2\bin\Debug\VBTutorial2.xml
+c:\users\rober\source\repos\VBTutorial2\VBTutorial2\obj\Debug\VBTutorial2.Form1.resources
+c:\users\rober\source\repos\VBTutorial2\VBTutorial2\obj\Debug\VBTutorial2.Resources.resources
+c:\users\rober\source\repos\VBTutorial2\VBTutorial2\obj\Debug\VBTutorial2.vbproj.GenerateResource.cache
+c:\users\rober\source\repos\VBTutorial2\VBTutorial2\obj\Debug\VBTutorial2.vbproj.CoreCompileInputs.cache
+c:\users\rober\source\repos\VBTutorial2\VBTutorial2\obj\Debug\VBTutorial2.exe
+c:\users\rober\source\repos\VBTutorial2\VBTutorial2\obj\Debug\VBTutorial2.xml
+c:\users\rober\source\repos\VBTutorial2\VBTutorial2\obj\Debug\VBTutorial2.pdb
